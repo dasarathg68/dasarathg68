@@ -139,6 +139,10 @@ LinkedIn: https://www.linkedin.com/in/dasarathg68/
 ![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=react&hide=contribs,prs)
 
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasarathg68&&theme=react)
+
+<br/>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=react"
 />
