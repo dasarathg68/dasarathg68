@@ -26,14 +26,10 @@ I am currently exploring the Web3 space
             />
             <br /><strong>Solidity</strong>
         </td>
-        <td align="center" height="108" width="108">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-                width="48"
-                height="48"
-                alt="Tailwind"
-            />
-            <br /><strong>Tailwind</strong>
+        <td align="center" height="108" width="108">            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"   width="48"
+                height="48"/>
+                <br /><strong>Go</strong>
         </td>
         <td align="center" height="108" width="108">
             <img
@@ -54,7 +50,7 @@ I am currently exploring the Web3 space
             <br /><strong>React</strong>
         </td>
     </tr>
-    <tr>  
+    <tr>
         <td align="center" height="108" width="108">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -91,7 +87,41 @@ I am currently exploring the Web3 space
             />
             <br /><strong>Docker</strong>
         </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"
+                height="48" />
+            <br /><strong>AWS</strong>
+        </td>
     </tr>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" 
+            width="48"
+                height="48"
+            />   
+                <br /><strong>RaspberryPi</strong>
+    </td>
+     <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+            width="48"
+                height="48" />
+                <br /><strong>Arduino</strong>
+    </td>
+    <td align="center" height="108" width="108">        
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+             width="48"
+                height="48" />  
+                <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">        
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg"
+             width="48"
+                height="48" 
+             />
+                    <br /><strong>EmbeddedC</strong>
+    </td>
+    </tr>
+
 </table>
 
 # 📫 How to reach me:
