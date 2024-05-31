@@ -136,7 +136,7 @@ LinkedIn: https://www.linkedin.com/in/dasarathg68/
 
 # 📈 Stats
 
-![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=react&hide=contribs,prs)
+![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=react&hide=contribs)
 
 <br />
 
