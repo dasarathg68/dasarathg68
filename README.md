@@ -134,6 +134,9 @@ Email: dasarathg68@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/dasarathg68/
 
+# 📈 Award
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
 # 📈 Stats
 
 ![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=react&hide=contribs)
@@ -142,6 +145,4 @@ LinkedIn: https://www.linkedin.com/in/dasarathg68/
 />
 <br/>
 
-# 📈 Award
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
