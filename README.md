@@ -136,12 +136,12 @@ LinkedIn: https://www.linkedin.com/in/dasarathg68/
 
 # 📈 Award
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true&&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 # 📈 Stats
 
-![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=react&hide=contribs)
+![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=radical&hide=contribs)
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=react"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=radical"
 />
 <br/>
 
