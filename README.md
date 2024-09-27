@@ -13,11 +13,11 @@ I am also currently freelancing as a Web3 Developer at <a href="https://github.c
 
 ## 📈 Award
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true&&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true&&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 # 📈 Stats
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=vue"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=tokyonight"
 />
 <br/>
 
