@@ -10,21 +10,20 @@ I am also currently freelancing as a Web3 Developer at <a href="https://github.c
 ## 🔭 My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,vue,pinia,react,express,nodejs,postman,nextjs,tailwind,vite,vitest,vercel,firebase,prisma,mysql,postgres,supabase,ipfs,go,docker,py,aws,arduino,raspberrypi,c,webstorm,vscode)](https://skillicons.dev)
 
+
+## 📈 Award
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true&&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
+# 📈 Stats
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=vue"
+/>
+<br/>
+
 ## 📫 How to reach me:
 
 Email: dasarathg68@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/dasarathg68/
-
-## 📈 Award
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dasarathg68&show_icons=true&&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-# 📈 Stats
-
-![Dasarath G's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasarathg68&&theme=radical&hide=contribs)
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dasarathg68&&theme=radical"
-/>
-<br/>
-
 
