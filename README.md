@@ -4,7 +4,7 @@ I am a passionate engineering graduate focusing intensively on cultivating cross
 
 I have a track record of over four years working with startups, research labs and industry in leadership and freelance capacities to develop products in healthcare, environment, governance & finance with my contributions across Full Stack Development, Web3, IoT, Embedded Systems & AI. Also, I am interested in pop-up cities and network states.
 
-Currently, I’m a Quantitative Developer at <a href="https://www.sqs.cx/">SQS Trading</a>, where I build performance benchmarking and latency testing tools for institutional-grade crypto market making. I'm also a core contributor at  <a href="https://github.com/ctrlsa">@ctrldefi</a>, an Ethereum and Solana Foundation backed public goods project, where I’ve led the development of the Instant Send App and explore Account Abstraction in the context of Telegram MiniApps.
+Currently, I’m a Quantitative Developer at <a href="https://www.sqs.cx/">SQS Trading</a>, where I build tools for institutional-grade crypto market making. I'm also a core contributor at  <a href="https://github.com/ctrlsa">@ctrldefi</a>, an Ethereum and Solana Foundation backed public goods project, where I’ve led the development of the Instant Send App and explore Account Abstraction in the context of Telegram MiniApps.
 
 Formerly undertook projects in software development as an independent contractor, embedded electronics and robotics as an independent contractor, managed teams across the globe and have successfully completed 10+ projects.
 
