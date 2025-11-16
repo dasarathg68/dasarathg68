@@ -6,7 +6,7 @@ I have a track record of over four years working with startups, research labs an
 
 Currently, I’m a Quantitative Developer at <a href="https://www.sqs.cx/">SQS Trading</a>, where I build tools for institutional-grade crypto market making. 
 
-Formerly undertook projects in software development as an independent contractor, embedded electronics and robotics as an independent contractor, managed teams across the globe and have successfully completed 10+ projects.
+I have taken up projects as an independent contractor in software development, web3, embedded electronics and robotics, managed teams across the globe and have successfully completed 10+ projects.
 
 ## You can reach me through
 
